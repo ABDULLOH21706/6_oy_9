@@ -228,7 +228,7 @@ const Home = () => {
           </button>
         </div>
         <div className="flex flex-wrap items-center justify-start gap-[20px] w-[100%]">
-          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px] pt-[20px]">
+          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px]">
             <div className="flex items-start justify-center w-[100%] h-[290px]">
               <div className="rounded-[10px]">
                 <img src={json[0].img} draggable="false" />
@@ -263,7 +263,7 @@ const Home = () => {
               <p className="text-center text-[18px]">Savatchaga qo'shish</p>
             </button>
           </div>
-          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px] pt-[20px]">
+          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px]">
             <div className="flex items-start justify-center w-[100%] h-[290px]">
               <div className="rounded-[10px]">
                 <img src={json[1].img} draggable="false" />
@@ -298,7 +298,7 @@ const Home = () => {
               <p className="text-center text-[18px]">Savatchaga qo'shish</p>
             </button>
           </div>
-          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px] pt-[20px]">
+          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px]">
             <div className="flex items-start justify-center w-[100%] h-[290px]">
               <div className="rounded-[10px]">
                 <img src={json[2].img} draggable="false" />
@@ -333,7 +333,7 @@ const Home = () => {
               <p className="text-center text-[18px]">Savatchaga qo'shish</p>
             </button>
           </div>
-          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px] pt-[20px]">
+          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px]">
             <div className="flex items-start justify-center w-[100%] h-[290px]">
               <div className="rounded-[10px]">
                 <img src={json[3].img} draggable="false" />
@@ -368,7 +368,7 @@ const Home = () => {
               <p className="text-center text-[18px]">Savatchaga qo'shish</p>
             </button>
           </div>
-          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px] pt-[20px]">
+          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px]">
             <div className="flex items-start justify-center w-[100%] h-[290px]">
               <div className="rounded-[10px]">
                 <img src={json[2].img} draggable="false" />
@@ -403,7 +403,7 @@ const Home = () => {
               <p className="text-center text-[18px]">Savatchaga qo'shish</p>
             </button>
           </div>
-          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px] pt-[20px]">
+          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px]">
             <div className="flex items-start justify-center w-[100%] h-[290px]">
               <div className="rounded-[10px]">
                 <img src={json[3].img} draggable="false" />
@@ -438,7 +438,7 @@ const Home = () => {
               <p className="text-center text-[18px]">Savatchaga qo'shish</p>
             </button>
           </div>
-          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px] pt-[20px]">
+          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px]">
             <div className="flex items-start justify-center w-[100%] h-[290px]">
               <div className="rounded-[10px]">
                 <img src={json[6].img} draggable="false" />
@@ -473,7 +473,7 @@ const Home = () => {
               <p className="text-center text-[18px]">Savatchaga qo'shish</p>
             </button>
           </div>
-          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px] pt-[20px]">
+          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px]">
             <div className="flex items-start justify-center w-[100%] h-[290px]">
               <div className="rounded-[10px]">
                 <img src={json[7].img} draggable="false" />
@@ -508,7 +508,7 @@ const Home = () => {
               <p className="text-center text-[18px]">Savatchaga qo'shish</p>
             </button>
           </div>
-          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px] pt-[20px]">
+          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px]">
             <div className="flex items-start justify-center w-[100%] h-[290px]">
               <div className="rounded-[10px]">
                 <img src={json[8].img} draggable="false" />
@@ -543,7 +543,7 @@ const Home = () => {
               <p className="text-center text-[18px]">Savatchaga qo'shish</p>
             </button>
           </div>
-          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px] pt-[20px]">
+          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px]">
             <div className="flex items-start justify-center w-[100%] h-[290px]">
               <div className="rounded-[10px]">
                 <img src={json[9].img} draggable="false" />
@@ -578,7 +578,7 @@ const Home = () => {
               <p className="text-center text-[18px]">Savatchaga qo'shish</p>
             </button>
           </div>
-          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px] pt-[20px]">
+          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px]">
             <div className="flex items-start justify-center w-[100%] h-[290px]">
               <div className="rounded-[10px]">
                 <img src={json[10].img} draggable="false" />
@@ -613,7 +613,7 @@ const Home = () => {
               <p className="text-center text-[18px]">Savatchaga qo'shish</p>
             </button>
           </div>
-          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px] pt-[20px]">
+          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px]">
             <div className="flex items-start justify-center w-[100%] h-[290px]">
               <div className="rounded-[10px]">
                 <img src={json[11].img} draggable="false" />
@@ -648,7 +648,7 @@ const Home = () => {
               <p className="text-center text-[18px]">Savatchaga qo'shish</p>
             </button>
           </div>
-          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px] pt-[20px]">
+          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px]">
             <div className="flex items-start justify-center w-[100%] h-[290px]">
               <div className="rounded-[10px]">
                 <img src={json[12].img} draggable="false" />
@@ -683,7 +683,7 @@ const Home = () => {
               <p className="text-center text-[18px]">Savatchaga qo'shish</p>
             </button>
           </div>
-          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px] pt-[20px]">
+          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px]">
             <div className="flex items-start justify-center w-[100%] h-[290px]">
               <div className="rounded-[10px]">
                 <img src={json[0].img} draggable="false" />
@@ -718,7 +718,7 @@ const Home = () => {
               <p className="text-center text-[18px]">Savatchaga qo'shish</p>
             </button>
           </div>
-          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px] pt-[20px]">
+          <div className="flex flex-col items-start justify-between w-[250px] h-[450px] cursor-pointer gap-[5px]">
             <div className="flex items-start justify-center w-[100%] h-[290px]">
               <div className="rounded-[10px]">
                 <img src={json[1].img} draggable="false" />
